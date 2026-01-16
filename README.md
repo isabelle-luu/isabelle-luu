@@ -1,16 +1,32 @@
-## Hi there 👋
+# Isabelle Lu
 
-<!--
-**isabelle-luu/isabelle-luu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Toronto with an AI minor.  
+Interested in software engineering, backend systems, data pipelines, and cloud infrastructure.
 
-Here are some ideas to get you started:
+## About
+- Computer Engineering (BASc) @ University of Toronto  
+- AI Minor | PEY Co-op  
+- Experience in backend, full-stack, and cloud-deployed systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+**Software Engineering Intern — TheTradePath Inc.**
+- Built backend services and data pipelines in Python and SQL
+- Integrated external APIs (Google, Apple, Yelp, OpenAI)
+- Developed and deployed production features using React, TypeScript, Azure Functions, AWS
+
+**Engineering Team Lead — University of Toronto**
+- Led system design, testing, and technical documentation for an industry-partnered project
+
+## Projects
+- **Reversi Engine** — C++ game engine with minimax + alpha–beta pruning
+- **FPGA Piano Tiles Game** — Real-time Verilog system with VGA output and FSM control
+- **Sustainability Design Project** — Data-driven engineering analysis with measurable impact
+
+## Skills
+**Languages:** C++, Python, C, C#, JavaScript, TypeScript, SQL, Verilog  
+**Tools:** React, REST APIs, Git/GitHub, Linux, AWS, Azure Functions  
+**Concepts:** OOP, Data Structures & Algorithms, SDLC
+
+## Links
+- 📧 isabelle.cc.lu@gmail.com  
+- 💼 https://www.linkedin.com/in/isabelleluu/
