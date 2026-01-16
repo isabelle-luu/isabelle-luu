@@ -28,5 +28,5 @@ Interested in software engineering, backend systems, data pipelines, and cloud i
 **Concepts:** OOP, Data Structures & Algorithms, SDLC
 
 ## Links
-- 📧 isabelle.cc.lu@gmail.com  
+- 📧 123isabellelu@gmail.com  
 - 💼 https://www.linkedin.com/in/isabelleluu/
