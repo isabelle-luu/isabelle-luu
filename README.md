@@ -18,9 +18,24 @@ Interested in software engineering, backend systems, data pipelines, and cloud i
 - Led system design, testing, and technical documentation for an industry-partnered project
 
 ## Projects
-- **Reversi Engine** — C++ game engine with minimax + alpha–beta pruning
-- **FPGA Piano Tiles Game** — Real-time Verilog system with VGA output and FSM control
-- **Sustainability Design Project** — Data-driven engineering analysis with measurable impact
+
+**RevuDesk**
+AI-powered web platform that automates task completion using OpenAI’s API.
+
+* Built with **React + TypeScript** frontend
+* Serverless backend using **Azure Functions** (cloud-hosted API)
+* Integrated **OpenAI API** for intelligent task automation
+* Live platform: [https://www.revudesk.com](https://www.revudesk.com)
+
+**Reversi Engine**
+C++ game engine implementing minimax with alpha–beta pruning.
+
+**FPGA Piano Tiles Game**
+Real-time Verilog system with VGA output and finite state machine control.
+
+**Sustainability Design Project**
+Data-driven engineering analysis with measurable environmental impact.
+
 
 ## Skills
 **Languages:** C++, Python, C, C#, JavaScript, TypeScript, SQL, Verilog  
